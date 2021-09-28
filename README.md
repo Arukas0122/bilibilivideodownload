@@ -1,7 +1,7 @@
 # bilibilivideodownload
 
 #B站视频下载器  
-#使用自己的seedid可以最高下载4K视频  
+#使用自己的SESSDATA可以最高下载4K视频  
 #使用的是写入内存的方式做缓存，下载完再写入硬盘  
 #所以内存小的建议看另外一个版  
 #需要配置ffmpeg环境变量  
